@@ -1,6 +1,6 @@
 # PunkAPI Javascript Wrapper
 
-A JS wrapper for the [BrewDog Punk API V2](https://punkapi.com/documentation/v2) - an API for retrieving data about [BrewDog's beers](https://www.brewdog.com/).
+A JS wrapper for the [BrewDog Punk API V2](https://punkapi.com/documentation/v2) - an API for retrieving data about [BrewDog's beers](https://www.brewdog.com/) built by []@samjbmason](https://twitter.com/samjbmason).
 
 ## Installation
 
@@ -23,8 +23,9 @@ Install via `bower` with:
 
 ## Usage
 
-There are several ways the wrapper can be used. The wrapper is available as a library script ([option #1](#library-option-1)), can be imported with [Webpack](https://webpack.github.io/) into a bundled script for the browser ([option #2](#webpack-for-the-browser-option-2)), or can be imported into Node ([option #3](#webpack-for-node-option-3)).
+There are several ways the wrapper can be used. The wrapper is available as a library script ([option #1](#option-1)), can be imported with [Webpack](https://webpack.github.io/) into a bundled script for the browser ([option #2](#option-2)), or can be imported into Node ([option #3](#option-3)).
 
+<a name="option-1"></a>
 **Library (Option #1)**
 
 Include the compiled library script on your page with:
@@ -35,6 +36,7 @@ Then create a new instance of the `PunkAPIWrapper` and get to work:
 
     const punkAPI = new PunkAPIWrapper()
 
+<a name="option-2"></a>
 **Webpack for the Browser (Option #2)**
 
 Import `PunkAPIWrapper` in your `entry` file with
@@ -47,6 +49,7 @@ Then create a new instance of `PunkAPIWrapper` and get to work:
 
 Finally `webpack` your code using your Webpack config.
 
+<a name="option-3"></a>
 **Node (Option #3)**
 
 The same implementation as Option #2.
