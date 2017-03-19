@@ -3,6 +3,10 @@
   "version": "1.0.1",
   "description": "A Javascript wrapper for the PunkAPI",
   "main": "src/punkapi-javascript-wrapper.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/brettdewoody/punkapi-javascript-wrapper.git"
+  },
   "scripts": {
     "test": "test/punkapi-javascript-wrapper.spec.js"
   },
