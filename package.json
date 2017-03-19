@@ -1,6 +1,6 @@
 {
   "name": "punkapi-javascript-wrapper",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A Javascript wrapper for the PunkAPI",
   "main": "src/punkapi-javascript-wrapper.js",
   "scripts": {
