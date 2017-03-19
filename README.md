@@ -1,6 +1,6 @@
 # PunkAPI Javascript Wrapper
 
-A JS wrapper for the [BrewDog Punk API V2](https://punkapi.com/documentation/v2) - an API for retrieving data about [BrewDog's beers](https://www.brewdog.com/) built by []@samjbmason](https://twitter.com/samjbmason).
+A JS wrapper for the [BrewDog Punk API V2](https://punkapi.com/documentation/v2) - an API for retrieving data about [BrewDog's beers](https://www.brewdog.com/) built by [@samjbmason](https://twitter.com/samjbmason).
 
 ## Installation
 
