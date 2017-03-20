@@ -11,10 +11,14 @@ Clone this repo into your project with:
 
     git clone https://github.com/brettdewoody/punkapi-javascript-wrapper.git
 
-#### NPM
-Install via `npm` with:
+#### NPM / Yarn
+Install via `npm` or `yarn` with:
 
     npm install --save punkapi-javascript-wrapper
+
+or
+
+    yarn add punkapi-javascript-wrapper
 
 #### Bower
 Install via `bower` with:
