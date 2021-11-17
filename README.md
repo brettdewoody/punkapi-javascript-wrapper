@@ -60,7 +60,7 @@ The same implementation as Option #2.
 
 Import `PunkAPIWrapper` in your `entry` file with
 
-    const PunkAPIWrapper = require(punkapi-javascript-wrapper)
+    const PunkAPIWrapper = require("punkapi-javascript-wrapper")
 
 Then create a new instance of `PunkAPIWrapper` and get to work:
 
